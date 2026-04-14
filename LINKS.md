@@ -16,7 +16,7 @@
 
 ## 🎥 Видео на RuTube
 - [Выполнение лабораторной работы №1](https://rutube.ru/video/private/e1658a29e48ccdf77ac05eb9e67bb69f/?p=47E_ZYbENiyyyMvX6gMqKA)
-- [Защита: презентация]([https://rutube.ru/video/private/6dd9673b7de69ee753c24f82d8dc7b6b/?p=YdzY6CWJycrdZVshcqQa5w)
+- [Защита: презентация](https://rutube.ru/video/private/6dd9673b7de69ee753c24f82d8dc7b6b/?p=YdzY6CWJycrdZVshcqQa5w)
 
 ## 🎬 Видео на VK Video
 - [Выполнение лабораторной работы №1](https://vkvideo.ru/video-201804104_456239021?list=ln-R8dgtb0mzXezIDi48T)
